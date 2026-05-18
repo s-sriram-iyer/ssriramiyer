@@ -1,6 +1,6 @@
 +++
 date = '2026-05-19T00:24:16+01:00'
-draft = true
+draft = false
 title = 'The Nuremberg Trials & Legal Positivism'
 +++
 
