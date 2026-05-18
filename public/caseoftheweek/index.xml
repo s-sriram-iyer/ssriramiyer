@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sriram Iyer</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/caseoftheweek/</link>
     <description></description>
     <generator>Hugo 0.161.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 May 2026 00:24:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/caseoftheweek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nuremberg Trials</title>
       <link>http://localhost:1313/caseoftheweek/2026/05/nuremberg-trials/</link>
