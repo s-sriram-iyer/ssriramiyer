@@ -1,12 +1,7 @@
 baseURL = 'https://sriramiyer.co.uk'
 locale = 'en-gb'
 title = 'Sriram Iyer'
-theme = "ink"
+theme = "hugo-ink"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-[permalinks]
-  [permalinks.page]
-    posts = '/caseoftheweek/:year/:month/:slug/'
-  [permalinks.section]
-    posts = '/caseoftheweek/'
