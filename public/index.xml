@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sriram Iyer</title>
-    <link>https://sriramiyer.co.uk/</link>
+    <link>http://localhost:1313/</link>
     <description></description>
     <generator>Hugo 0.161.1</generator>
     <language>en</language>
     
-    <atom:link href="https://sriramiyer.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
