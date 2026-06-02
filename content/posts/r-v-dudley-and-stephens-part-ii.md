@@ -1,5 +1,5 @@
 +++
-date = '2026-06-03T00:22:05+01:00'
+date = '2026-06-02T00:22:05+01:00'
 draft = false
 title = 'R v Dudley and Stephens, Part II: Law & Religion'
 +++
