@@ -1,7 +1,7 @@
 +++
 date = '2026-06-03T00:22:05+01:00'
 draft = false
-title = 'R v Dudley and Stephens, Part II: Law and Religion'
+title = 'R v Dudley and Stephens, Part II: Law & Religion'
 +++
 
 Last week, I discussed R v Dudley and Stephens, and its significance in showing us how the cogs of common law turn. We also looked at the definitions of murder given in Glanville and later by Sir Edward Coke. For the context of the case, please see last week's article.

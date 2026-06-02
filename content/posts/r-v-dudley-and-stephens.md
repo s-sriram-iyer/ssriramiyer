@@ -1,7 +1,7 @@
 +++
 date = '2026-05-26T20:56:47+01:00'
 draft = false
-title = 'R v Dudley & Stephens, Murder, and Common Law'
+title = 'R v Dudley & Stephens, Part I: Murder, & Common Law'
 +++
 
 In English law, something can be legal or illegal based on statute, or based on common law. Statutes are what we often think of as "laws", for example the Theft Act 1968, or the Marine Insurance Act 1906, but the majority of our law doesn't actually come from these acts of parliament. Instead, English law primarily derives from the very old tradition of common law, where every single case acts like another brick on top of existing cases. This system means that a lawyer can call on any judgement in the past to support their current argument (given that the case hasn't been overruled by a different one or by an act of parliament).
