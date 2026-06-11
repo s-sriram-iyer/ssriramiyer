@@ -24,4 +24,5 @@ The public domain's importance has been huge - it is the reason anyone can make 
 ---
 
 Further Reading:
+
 A commentary on this case: https://copyrighthistory.org/cam/commentary/uk_1774/uk_1774_com_1072007103444.html
