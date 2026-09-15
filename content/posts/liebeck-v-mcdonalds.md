@@ -1,7 +1,7 @@
 +++
 date = '2026-08-19T23:10:16+01:00'
 draft = false
-title = 'Liebeck v McDonald's Restaurants, Defective Coffee, and Publicity'
+title = 'Liebeck v McDonalds Restaurants, Defective Coffee, and Publicity'
 +++
 
 The USA has a reputation for being a country of frivolous lawsuits. The foremost example of this phenomenon is the case brought by Stella Liebeck against McDonald's after she spilt coffee on herself. The case is ridiculed as an example of how lawsuit-happy Americans can be, but the truth is that while there are many frivolous lawsuits in the USA, this is not one of them.
