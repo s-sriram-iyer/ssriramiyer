@@ -7,7 +7,13 @@
         include '/var/sqldata/credentials.php';
 
         $conn = new mysqli($servername, $username, $password, $dbname);
-        $sql = "SELECT * FROM cases ORDER BY id DESC";
+
+        if ($home == 1) {
+          $sql = "SELECT * FROM cases ORDER BY id DESC LIMIT 3";
+        } else {
+            $sql = "SELECT * FROM cases ORDER BY id DESC";
+        }
+
         $result = $conn->query($sql);
 
         while ($row = $result->fetch_assoc()) {
