@@ -18,7 +18,7 @@
 
           echo "<li class=\"post-entry\"><a href=\"";
           echo $url . "\"";
-          echo "class=\"post-entry-link\"><h3 class=\"post-entry-title\"";
+          echo "class=\"post-entry-link\"><h3 class=\"post-entry-title\">";
           echo $title;
           echo "</h3><span class=\"post-meta\"><span><time>";
           echo $date;
