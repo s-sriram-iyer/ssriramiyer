@@ -10,6 +10,7 @@
     <!-- Post Contents -->
     <main class="container">
     <article>
+
     <div class="progress-bar" aria-hidden="true"></div>
     <header class="post-header">
         <h1 class="post-title">Liebeck v McDonalds Restaurants, Defective Coffee, and Publicity</h1>
