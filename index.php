@@ -7,7 +7,7 @@
   <body>
     <?php include "components/header.php"; ?>
     <main class="container">
-    <!-- Welcome! --> <section class="hero"><h1 class="hero-name">The site is under maintenance, so only one case is available</h1></section>
+    <!-- Welcome! --> <section class="hero"><h1 class="hero-name">This site is under maintenance, so only three cases are available right now. Check back soon!</h1></section>
 
     <!-- Case of the Week --> <?php include "components/cotw_list.php"; ?>
     </main>

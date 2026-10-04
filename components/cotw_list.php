@@ -22,5 +22,14 @@
           <span class="post-meta"><span><time datetime="2026-08-04">August 4, 2026</time></span></span>
         </a>
       </li>
+
+      <li class="post-entry">
+        <a
+          href="caseoftheweek/2026/06/roe-v-wade-the-people-behind-law/"
+          class="post-entry-link">
+          <h3 class="post-entry-title">Roe v Wade &amp; The People Behind Law</h3>
+          <span class="post-meta"><span><time datetime="2026-06-16">June 16, 2026</time></span></span>
+        </a>
+      </li>
     </ul>
   </section>
