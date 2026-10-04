@@ -53,10 +53,7 @@
         { passive: true },
       );
     }
-    if (
-      typeof CSS === "undefined" ||
-      !CSS.supports("animation-timeline", "scroll()")
-    ) {
+    if (typeof CSS === "undefined" || !CSS.supports("animation-timeline", "scroll()")) {
       document.documentElement.classList.add("no-scroll-timeline");
       var bar = document.querySelector(".progress-bar");
       if (bar) {
