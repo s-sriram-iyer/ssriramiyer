@@ -8,7 +8,7 @@
         include '/var/sqldata/credentials.php';
 
         $conn = new mysqli($servername, $username, $password, $dbname);
-        $sql = "SELECT * FROM cases";
+        $sql = "SELECT * FROM cases ORDER BY id DESC";
         $result = $conn->query($sql);
 
         while ($row = $result->fetch_assoc()) {
