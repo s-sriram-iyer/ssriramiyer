@@ -8,7 +8,7 @@
     <?php include "../components/header.php"; ?>
     <main class="container">
     <!-- Welcome! --> <section class="hero"><h1 class="hero-name">Case of the Week<h1></section>
-    <!-- Case of the Week --> <?php include "components/cotw_list.php"; ?>
+    <!-- Case of the Week --> <?php include "../components/cotw_list.php"; ?>
     </main>
 
   <?php include "../components/footer_and_important_js.php"; ?>
