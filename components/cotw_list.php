@@ -1,12 +1,12 @@
 <section class="recent-posts">
-    <div class="recent-header">
-    <h2>Case of the Week</h2>
     <?php
       if ($home == 1) {
+        echo "<div class=\"recent-header\">";
+        echo "<h2>Case of the Week</h2>";
         echo "<a href=\"/caseoftheweek/\" class=\"view-all\">View all →</a>";
+        echo "</div>";
       }
     ?>
-    </div>
 
     <ul class="post-list">
       <?php
