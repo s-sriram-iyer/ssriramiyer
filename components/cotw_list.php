@@ -4,7 +4,7 @@
     </div>
     <?php
       if ($home == 1) {
-        echo "a href=\"/caseoftheweek/\" class=\"view-all\">View all &arr;</a>";
+        echo "<a href=\"/caseoftheweek/\" class=\"view-all\">View all &arr;</a>";
       }
     ?>
 
