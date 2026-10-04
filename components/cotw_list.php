@@ -1,7 +1,6 @@
 <section class="recent-posts">
     <div class="recent-header">
     <h2>Case of the Week</h2>
-    <a href="/caseoftheweek/" class="view-all">View all &rarr;</a>
     </div>
     <ul class="post-list">
       <?php
