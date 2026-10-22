@@ -7,7 +7,7 @@
   <body>
     <?php include "components/header.php"; ?>
     <main class="container">
-      <!-- Welcome! --> <section class="hero"><h1 class="hero-name">This site is under maintenance, so only three cases are available right now. Check back soon!</h1></section>
+      <!-- Welcome! --> <section class="hero"><h1 class="hero-name">This site is under maintenance due to the recent PHP vulnerability. Check back soon!</h1></section>
       <?php
         $home = 1;
         include "components/cotw_list.php";
