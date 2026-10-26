@@ -14,6 +14,7 @@
 
         $conn = new mysqli($servername, $username, $password, $dbname);
 
+        // Only show three articles on the home page, all articles in main list
         if ($home == 1) {
           $sql = "SELECT * FROM cases ORDER BY id DESC LIMIT 3";
         } else {
